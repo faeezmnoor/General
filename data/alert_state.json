@@ -20,6 +20,11 @@
       "departure_date": "2026-09-03",
       "price": 534.0
     },
+    "KUL-DPS": {
+      "date": "2026-09-06",
+      "departure_date": "2026-10-06",
+      "price": 339.0
+    },
     "KUL-LBJ": {
       "date": "2026-08-12",
       "departure_date": "2026-09-04",
